@@ -7,8 +7,11 @@ To see some of these examples in use, visit the ROS 2 Tutorials page: https://do
 
 Notes
 =====
-Setup 은 아래 링크, ubuntu 20.04 
+ubuntu 20.04
+
+Setup 은 아래 링크
 https://keep-steady.tistory.com/45
+
 공식 문서
 https://docs.ros.org/en/foxy/Tutorials/Advanced/Simulators/Webots/Installation-Windows.html
 
